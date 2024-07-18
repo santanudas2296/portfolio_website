@@ -14,3 +14,7 @@ with col2:
     """
     st.info(content)
 
+text1 = """
+Below you can find some of the apps I have built in python
+"""
+st.text(text1)
